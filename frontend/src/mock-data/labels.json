@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "1",
+    "name": "bug",
+    "detail": "Yazılımdaki sorun bir bugdan kaynaklanıyor"
+  },
+  {
+    "_id": "2",
+    "name": "need:more-info",
+    "detail": "Sorun hakkında daha fazla bilgi gerekli"
+  }
+]

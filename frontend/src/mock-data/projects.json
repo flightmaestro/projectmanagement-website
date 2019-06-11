@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "1",
+    "title": "Proje #1",
+    "aim": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus quis mi sed hendrerit. Duis at viverra velit, at auctor enim cras amet.",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus quis mi sed hendrerit. Duis at viverra velit, at auctor enim cras amet.",
+    "manager": {
+      "_id": "1",
+      "name": "Hüseyin Karademir"
+    },
+    "users": [
+      {
+        "_id": "2",
+        "name": "Çağatay Çiftçi"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "title": "Proje #2",
+    "aim": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus quis mi sed hendrerit. Duis at viverra velit, at auctor enim cras amet.",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus quis mi sed hendrerit. Duis at viverra velit, at auctor enim cras amet.",
+    "manager": {
+      "_id": "1",
+      "name": "Hüseyin Karademir"
+    },
+    "users": [
+      {
+        "_id": "2",
+        "name": "Çağatay Çiftçi"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "title": "Proje #3",
+    "aim": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus quis mi sed hendrerit. Duis at viverra velit, at auctor enim cras amet.",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus quis mi sed hendrerit. Duis at viverra velit, at auctor enim cras amet.",
+    "manager": {
+      "_id": "1",
+      "name": "Hüseyin Karademir"
+    },
+    "users": [
+      {
+        "_id": "2",
+        "name": "Çağatay Çiftçi"
+      }
+    ]
+  }
+]

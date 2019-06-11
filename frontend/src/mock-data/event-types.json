@@ -1,0 +1,11 @@
+[
+  "add:label",
+  "remove:label",
+  "create:project",
+  "create:task",
+  "assign:task",
+  "unassign:task",
+  "complete:task",
+  "update:task",
+  "update:task-status"
+]

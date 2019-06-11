@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "1",
+    "title": "To Do",
+    "detail": "Yapılacak işler"
+  },
+  {
+    "_id": "2",
+    "title": "Doing",
+    "detail": "Yapılmakta olan işler"
+  },
+  {
+    "_id": "3",
+    "title": "Done",
+    "detail": "Tamamlanmış işler"
+  }
+]
